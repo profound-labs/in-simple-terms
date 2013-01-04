@@ -1,0 +1,114 @@
+\select@language {british}
+\select@language {british}
+\thispagestyle {empty}
+\pagestyle {empty}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{13}{chapter.1}
+\contentsline {chapter}{\color {textbody}108 Similes}{}{} \par 
+\contentsline {section}{Your Real Home}{17}{section*.1}
+\contentsline {section}{To the Ocean}{18}{section*.2}
+\contentsline {section}{Groundwater}{18}{section*.3}
+\contentsline {section}{It's All Right Here}{19}{section*.4}
+\contentsline {section}{The Roots}{19}{section*.5}
+\contentsline {section}{Elephants, Oxen, and Water Buffaloes}{20}{section*.6}
+\contentsline {section}{The Lost Wallet}{21}{section*.7}
+\contentsline {section}{Leaves}{21}{section*.8}
+\contentsline {section}{A Block of Ice}{22}{section*.9}
+\contentsline {section}{Wagon Wheels, Wagon Tracks}{23}{section*.10}
+\contentsline {section}{Children, Bullets}{24}{section*.11}
+\contentsline {section}{The Tail of the Snake}{25}{section*.12}
+\contentsline {section}{The King of Death}{26}{section*.13}
+\contentsline {section}{The Beginning Is the End}{27}{section*.14}
+\contentsline {section}{Colored Water}{28}{section*.15}
+\contentsline {section}{Orphaned}{28}{section*.16}
+\contentsline {section}{Why It's Heavy}{29}{section*.17}
+\contentsline {section}{A Hypodermic Needle}{30}{section*.18}
+\contentsline {section}{Meat Stuck in Your Teeth}{31}{section*.19}
+\contentsline {section}{Poking a Red Ants' Nest}{31}{section*.20}
+\contentsline {section}{A Thirst Unto Death}{32}{section*.21}
+\contentsline {section}{A Frog on the Hook}{33}{section*.22}
+\contentsline {section}{A Sense That Your Arm is Short}{34}{section*.23}
+\contentsline {section}{A Thorn}{34}{section*.24}
+\contentsline {section}{Rowf! Rowf! Rowf!}{35}{section*.25}
+\contentsline {section}{The Dog on a Pile of Unhusked Rice}{36}{section*.26}
+\contentsline {section}{Mange}{37}{section*.27}
+\contentsline {section}{Maggots}{38}{section*.28}
+\contentsline {section}{Rivers}{39}{section*.29}
+\contentsline {section}{The Lonely Path}{39}{section*.30}
+\contentsline {section}{The Chicken and the Duck}{40}{section*.31}
+\contentsline {section}{Salt That's Not Salty}{41}{section*.32}
+\contentsline {section}{Carrying a Rock}{42}{section*.33}
+\contentsline {section}{A Splinter}{43}{section*.34}
+\contentsline {section}{Groping for Fish}{44}{section*.35}
+\contentsline {section}{A Spittoon}{45}{section*.36}
+\contentsline {section}{Peels and Husks}{46}{section*.37}
+\contentsline {section}{Doing the Math}{47}{section*.38}
+\contentsline {section}{The Broken Glass}{48}{section*.39}
+\contentsline {section}{Picking Mangoes}{49}{section*.40}
+\contentsline {section}{Salt}{49}{section*.41}
+\contentsline {section}{An Upside-down Basin}{50}{section*.42}
+\contentsline {section}{A Leaky Basin}{50}{section*.43}
+\contentsline {section}{Water in a Jar}{51}{section*.44}
+\contentsline {section}{A Mold}{52}{section*.45}
+\contentsline {section}{Vines}{53}{section*.46}
+\contentsline {section}{A Cup of Dirty Water}{54}{section*.47}
+\contentsline {section}{Your Inner Tape Recorder}{55}{section*.48}
+\contentsline {section}{Balloons}{56}{section*.49}
+\contentsline {section}{No Match for an Ox}{56}{section*.50}
+\contentsline {section}{The Heart Its Own Teacher}{57}{section*.51}
+\contentsline {section}{Water and Oil}{57}{section*.52}
+\contentsline {section}{Supposed Monks, Genuine Monks}{58}{section*.53}
+\contentsline {section}{Work First, Wages Later}{59}{section*.54}
+\contentsline {section}{Making Tables and Chairs}{59}{section*.55}
+\contentsline {section}{The Millipede}{60}{section*.56}
+\contentsline {section}{Sweeping}{61}{section*.57}
+\contentsline {section}{Planting Peppers}{61}{section*.58}
+\contentsline {section}{The Way to the Monastery}{62}{section*.59}
+\contentsline {section}{Medicine}{62}{section*.60}
+\contentsline {section}{Rubbing Fire Sticks}{63}{section*.61}
+\contentsline {section}{The Key of Meditation}{63}{section*.62}
+\contentsline {section}{Hot and Cold}{64}{section*.63}
+\contentsline {section}{Against the Flow}{64}{section*.64}
+\contentsline {section}{The Cat}{65}{section*.65}
+\contentsline {section}{Eating Sugarcane}{65}{section*.66}
+\contentsline {section}{The Fence}{66}{section*.67}
+\contentsline {section}{In the Shape of a Circle}{67}{section*.68}
+\contentsline {section}{Fires and Floods}{68}{section*.69}
+\contentsline {section}{Putting Down the Glass}{68}{section*.70}
+\contentsline {section}{The Poisoned Banana}{69}{section*.71}
+\contentsline {section}{Studying vs. Going into Battle}{69}{section*.72}
+\contentsline {section}{The Hand}{70}{section*.73}
+\contentsline {section}{The Knife}{71}{section*.74}
+\contentsline {section}{Written Words}{71}{section*.75}
+\contentsline {section}{Falling Out of a Tree}{72}{section*.76}
+\contentsline {section}{Learning How to Write}{73}{section*.77}
+\contentsline {section}{The Child and the Adult}{73}{section*.78}
+\contentsline {section}{A Stick}{74}{section*.79}
+\contentsline {section}{Painting a Picture}{74}{section*.80}
+\contentsline {section}{The Food You Like}{75}{section*.81}
+\contentsline {section}{Catching a Lizard}{76}{section*.82}
+\contentsline {section}{Water Drops, Water Streams}{77}{section*.83}
+\contentsline {section}{Herding Water Buffalo}{78}{section*.84}
+\contentsline {section}{Beating the Buffalo}{79}{section*.85}
+\contentsline {section}{Teaching a Child}{79}{section*.86}
+\contentsline {section}{Standard Form}{80}{section*.87}
+\contentsline {section}{Sowing Rice}{80}{section*.88}
+\contentsline {section}{Teaching a Child}{81}{section*.89}
+\contentsline {section}{A Mischievous Child}{81}{section*.90}
+\contentsline {section}{Sending off a Relative}{82}{section*.91}
+\contentsline {section}{Keeping Watch}{83}{section*.92}
+\contentsline {section}{Receiving Visitors}{84}{section*.93}
+\contentsline {section}{Chicken in a Cage}{85}{section*.94}
+\contentsline {section}{Living with a Cobra}{85}{section*.95}
+\contentsline {section}{Leaving the Cobra Alone}{86}{section*.96}
+\contentsline {section}{Fallen Mangoes}{86}{section*.97}
+\contentsline {section}{A Kiln}{87}{section*.98}
+\contentsline {section}{The Spider}{88}{section*.99}
+\contentsline {section}{Wild Chickens}{90}{section*.100}
+\contentsline {section}{Monkeys}{92}{section*.101}
+\contentsline {section}{The Tree Pulls Itself Down}{94}{section*.102}
+\contentsline {section}{Heavy Lifting}{94}{section*.103}
+\contentsline {section}{Bottled Water, Spring Water}{95}{section*.104}
+\contentsline {section}{Still, Flowing Water}{95}{section*.105}
+\contentsline {section}{The Log in the Canal}{96}{section*.106}
+\contentsline {section}{Waves Coming Ashore}{96}{section*.107}
+\contentsline {section}{The Saw}{97}{section*.108}

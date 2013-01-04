@@ -1,0 +1,73 @@
+\documentclass[11pt,twoside,final]{memoir}
+
+\newcommand{\bookTitle}{In Simple Terms}
+\newcommand{\bookAuthor}{Ajahn Chah}
+\newcommand{\bookISBN}{978-0-9568113-7-0}
+
+\newcommand{\editioninfo}{%
+{\raggedright\par
+\textit{Second edition}, 10,000 copies, printed in Malaysia -- 2011
+\par
+}}
+
+\title{\bookTitle}
+\author{\bookAuthor}
+
+\usepackage{mylayout}
+
+\begin{document}
+
+\hyphenation{begin}
+
+\thispagestyle{empty}
+\mbox{}\newpage\thispagestyle{empty}
+\mbox{}
+\AddToShipoutPicture*{\put(\LenToUnit{0.8in},\LenToUnit{1in}){\includegraphics[width=1.05in,keepaspectratio]{birch_by_Aj_Vimalo_3_CMYK.png}}}
+\newpage
+
+\input{./src-tex/frontmatter_opening-pages.tex}
+
+\addtolength{\headsep}{1\baselineskip}
+\addtolength{\footskip}{1.5\baselineskip}
+\addtolength{\textheight}{-3.5\baselineskip}
+
+\cleardoublepage
+
+\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addtocontents{toc}{\protect\pagestyle{empty}}
+
+\tableofcontents*
+
+\thispagestyle{empty}
+
+\chapter{Introduction}
+\input{./src-tex/intro.tex}
+
+\cleardoublepage\thispagestyle{empty}
+
+\vspace*{\beforechapskip}
+\vspace*{1.5\baselineskip}
+{\centering\par\chaptitlefont\color{chapter}\soChapter{108 SIMILIES}\par}
+\addtocontents{toc}{\protect \contentsline{chapter}{\color{textbody}108 Similes}{}{} \par}
+\chaptermark{108 Similes}
+
+\cleardoublepage
+
+\input{./src-tex/similes.tex}
+
+\newpage\mbox{}\thispagestyle{empty}
+
+\AddToShipoutPicture*{\put(\LenToUnit{1.5in},\LenToUnit{1.5in}){\includegraphics[width=0.6in,keepaspectratio,angle=-90]{birch_by_Aj_Vimalo_3_CMYK.png}}}
+
+\cleardoublepage
+\thispagestyle{empty}
+\input{./src-tex/for-free-distribution.tex}
+
+\clearpage
+\thispagestyle{customplain}
+\input{./src-tex/cc-details.tex}
+
+\newpage\mbox{}\thispagestyle{empty}
+\newpage\mbox{}\thispagestyle{empty}
+
+\end{document}

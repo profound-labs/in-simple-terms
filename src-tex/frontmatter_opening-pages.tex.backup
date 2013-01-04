@@ -1,0 +1,58 @@
+
+{\pagestyle{empty}
+
+{\raggedleft\setlength{\parskip}{1em}\setlength{\parindent}{0em}
+
+\vspace*{4\baselineskip}
+{\fontfamily{shaker2-light}\fontseries{m}\fontshape{n}\selectfont\Large\color{chapter} \bookTitle
+
+\fontfamily{gentium}\normalsize 108 Similes for Contemplation \\
+by Venerable Ajahn Chah
+
+Translated from the Thai \\
+by Thanissaro Bhikkhu}
+
+\vfill
+
+Published for free distribution by\\
+ARUNA PUBLICATIONS
+
+This book is available for free download at\\
+\href{http://www.forestsanghapublications.org/}{www.forestsanghapublications.org}
+
+}
+
+\mbox{}\newpage\thispagestyle{empty}%
+% \enlargethispage{\baselineskip}%
+% \vspace*{-3\baselineskip}%
+\input{./src-tex/copyright.tex}
+
+\cleardoublepage
+
+% \vspace*{\beforechapskip}\vspace*{2\baselineskip}
+
+\vspace*{0.5\textheight}%
+\noindent\hspace*{-20mm}%
+\fbox{\begin{minipage}[b]{\paperwidth}
+\centering
+
+{\itshape `\ldots{} The Dhamma is just like this, talking in similes,\\
+because the Dhamma doesn't have anything.\\
+It isn't round, doesn't have any corners.\\
+There's no way to get acquainted with it except through\\
+comparisons like this. If you understand this,\\
+you understand the Dhamma.'
+\bigskip
+
+`Don't think that the Dhamma lies far away from you.\\ It lies right with you; it's about you. Take a look.\\ One minute happy, the next minute sad, satisfied,\\ then angry at this person, hating that person:\\ it's all Dhamma \ldots{}'
+\vspace*{2\baselineskip}
+
+Ajahn Chah}
+
+\end{minipage}}
+
+\clearpage\thispagestyle{empty}
+
+\input{./src-tex/dedication.tex}
+
+}
